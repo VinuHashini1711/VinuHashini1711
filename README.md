@@ -23,7 +23,9 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinuhashini1711) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinuhashinivenkatesh17@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinuhashini1711) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinuhashinivenkatesh17@gmail.com)
+
+---
 
 ## 🛠 Tech Stack  
 
@@ -45,13 +47,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VinuHashini1711&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinuHashini1711&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>  
-
----
-
-## 📈 Activity Graph  
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=VinuHashini1711&theme=radical&hide_border=false" alt="GitHub Activity Graph" />
 </p>  
 
@@ -59,9 +54,9 @@
 
 ## 👁‍🗨 Profile Visits  
 
-<p align="center">
-  [<img src="https://visitcount.itsvg.in/api?id=VinuHashini1711&icon=0&color=0" alt="Profile Visits">](https://visitcount.itsvg.in)
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=VinuHashini1711&icon=0&color=0)](https://visitcount.itsvg.in) 
 
+---
 
 ⭐ "Turning logic into reliable, high-quality software solutions."
