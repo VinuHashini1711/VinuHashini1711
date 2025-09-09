@@ -22,11 +22,6 @@
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinuhashini1711) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinuhashinivenkatesh17@gmail.com)
-
----
-
 ## 🛠 Tech Stack  
 
 <p align="left">
@@ -52,10 +47,12 @@
 
 ---
 
-## 👁‍🗨 Profile Visits  
+## 🌐 Connect With Me  
 
----
-[![](https://visitcount.itsvg.in/api?id=VinuHashini1711&icon=0&color=0)](https://visitcount.itsvg.in) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinuhashini1711)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinuHashini1711)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vinuhashini1711/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinuhashinivenkatesh17@gmail.com)
 
 ---
 
