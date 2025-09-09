@@ -5,11 +5,16 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch: # allow manual trigger
 
+permissions:
+  contents: write
+  pages: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
