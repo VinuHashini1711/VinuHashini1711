@@ -1,9 +1,15 @@
 
 
 
-# Hi there, I'm Vinuhashini 👋 
+<h1 align="center">Hi there, I'm Vinuhashini 👋</h1>
 
-💡 Passionate about developing innovative software solutions that are scalable, reliable, and designed to solve complex problems efficiently.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A960F7&center=true&vCenter=true&width=650&lines=Passionate+Full-Stack+Developer;React+%7C+Spring+Boot+%7C+PostgreSQL;Building+Scalable+%26+Reliable+Software!;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VinuHashini1711&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinuHashini1711/VinuHashini1711/output/github-snake-dark.svg" />
